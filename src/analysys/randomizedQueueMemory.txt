@@ -1,0 +1,7 @@
+Memory analysis of an instance for a randomized queue of N items:
+
+private Item[] q; // N*8 bytes
+private int head = 0; // 4 bytes
+private int tail = 0; // 4 bytes
+
+Total memory cost: N*8 + 8 bytes
