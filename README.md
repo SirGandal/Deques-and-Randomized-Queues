@@ -1,7 +1,10 @@
 # Deques and Randomized Queues
 http://coursera.cs.princeton.edu/algs4/assignments/queues.html
 
-Programming Assignment 2 for the "Algorithms, Part I" course on Coursera.
+Programming Assignment 2 for the "Algorithms, Part I" course on Coursera.  
+
+[Problem specification](assignment/ProgrammingAssignment2_Specification.pdf) (Course starting date October 3rd, 2016).  
+[Problem checklist](assignment/ProgrammingAssignment2_Checklist.pdf) (Course starting date October 3rd, 2016).
 
 ## The problem
 Write a generic data type for a deque and a randomized queue. The goal of the assignment is to implement elementary data structures using arrays and linked lists, and to get familiar with generics and iterators.
